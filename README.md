@@ -4,7 +4,7 @@
 ```javascript
 const davidgrcr = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, PHP],
+  code: [Javascript, TypeScript, HTML, CSS, PHP],
   tools: [React, Redux, Node, Storybook, Jest]
 }
 ```
